@@ -1,10 +1,11 @@
-# 👋 Hi, I’m Hanmin Kim (김한민)
-
-> **“기술로 문제를 해결하고, 글로 마음을 잇듯 코드로 세상을 잇고 싶은 개발자 김한민입니다.”**  
+<h1 align="center">👋 Hi, I’m Hanmin Kim (김한민)</h1>
+<br>
+<p align="center"><strong>“글로 마음을 잇듯이, 기술로 문제를 해결하고 코드로 세상을 이어나가고 싶은 개발자 김한민입니다.”</strong></p>
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me / 자기소개 
+<br>
 
 안녕하세요.  
 저는 **국어국문학을 전공하며 사람의 내면과 이야기를 깊이 이해하는 방식을 학습**했고,  
@@ -12,10 +13,15 @@
 코드뿐만 아니라 **사람과의 협업, 기술 문서화, UI/UX에 대한 감각**까지 갖춘  
 균형 잡힌 개발자로 성장하고자 계속해서 노력하고 있습니다.
 
+<br>
+
 > **문학적 사고와 실무 기술을 겸비한**  
 > **사용자 중심의 ‘고급 풀스택 개발자’를 목표로 성장 중입니다.**
 
-**나의 비전**
+<br>
+
+**나의 비전은..**
+
 - ✍ **글과 코드** 모두로 생각을 표현할 수 있는 개발자  
 - 🔍 **정확한 데이터 기반 분석과 설계**를 중시하는 백엔드 감각  
 - 🧠 **협업을 위한 커뮤니케이션과 피드백 루프**에 능숙  
@@ -25,27 +31,37 @@
 
 ## ⚙️ Tech Stack
 
-### 📌 Languages & Core
-`Java` `JavaScript` `Kotlin` `SQL` `HTML5` `CSS3`
-
-### ⚙ Backend
-`Spring Boot` `Spring Data JPA` `MyBatis` `JSP/Servlet` `RESTful API`
-
-### 🖥 Frontend
-`React` `React Router` `React Bootstrap` `EmailJS` `Chart.js` `CSS Modules`
-
-### ☁ Infrastructure & DevOps
-`AWS EC2/S3` `MySQL(MariaDB)` `Docker` `Github Actions` `Nginx`
-
-### 🛠️ Tools & Workflow
-`Swagger`, `Postman`, `Selenium`, `JavaDoc`
-
-## 🔌 External API Experience
-`카카오 지도 API`, `건강기능식품정보 API(공공데이터포털|식약처)`, `네이버 도서 검색 API(NAVER)`, `로또 당첨번호 크롤링 (Selenium 기반|동행복권)`
+### 📌 Languages & Core  
+`Java` `JavaScript` `Kotlin` `C` `C++` `SQL` `HTML/CSS`
 
 ---
 
-## 💼 Projects
+### ⚙ Backend  
+`Spring Boot` `Spring Data JPA` `MyBatis` `Node.js` `RESTful API` `JSP/Servlet` `Swagger` `Apache Tomcat`
+
+---
+
+### 🖥 Frontend  
+`ReactJS` `React Router` `React Native` `React Bootstrap` `JQuery` `EmailJS` `Chart.js` `CSS Modules`
+
+---
+
+### ☁ Infrastructure & DevOps  
+`AWS EC2` `AWS S3` `AWS-MariaDB` `MySQL` `MariaDB` `OracleDB` `Docker` `Github Actions` `Git` `Nginx` `Ubuntu` `Linux`
+
+---
+
+### 🛠️ Tools & Workflow  
+`Swagger` `Postman` `Selenium` `JavaDoc` `PowerPoint` `Zapier`
+
+---
+
+## 🔌 External API Experience  
+`카카오 지도 API` `건강기능식품정보 API(e약은요)` `네이버 도서 검색 API` `로또 당첨번호 크롤링 (Selenium 기반 · 동행복권)`
+
+---
+
+<h2 align="center">💼 Projects / 프로젝트 </h2>
 
 ### 🔗 [PillLaw - 건강기능식품 쇼핑몰](https://pilllaw.eeerrorcode.com/pilllaw)
 **기능성 의약품 조회 + 쇼핑몰 기능 통합 웹서비스**  
@@ -101,7 +117,7 @@
 
 
 
-## ✍ Blog & SNS
+<h2 align="center">✍ Blog & SNS / 블로그 및 연락처 </h2>
 
 - 📝 [Devlog - 개발 및 학습 일지 기록](https://dahndellthedev.tistory.com)  
 - 📚 [문학 블로그 - 일기, 시 등 문학을 기록](https://blog.naver.com/khanman11)  
@@ -109,7 +125,7 @@
 
 ---
 
-## 🧩 현재 관심사
+<h2 align="center">🧩 Focusing / 현재 관심사</h2>
 
 - Spring 기반의 REST API 성능 최적화 및 Query 개선
 - GitHub Actions를 활용한 CI/CD 파이프라인 구축
