@@ -7,7 +7,7 @@
 ## 🧭 About Me
 
 안녕하세요.  
-저는 **국어국문학과 전공생 당시 사람의 내면의 가치와 이야기를 이해하는 연습**을 했고,  
+저는 **국어국문학을 전공하며 사람의 내면과 이야기를 깊이 이해하는 방식을 학습**했고,  
 이후 전산원과 실무 교육과정을 통해 **당면한 문제를 코드로 풀어내는 능력**을 쌓아왔습니다.  
 코드뿐만 아니라 **사람과의 협업, 기술 문서화, UI/UX에 대한 감각**까지 갖춘  
 균형 잡힌 개발자로 성장하고자 계속해서 노력하고 있습니다.
@@ -42,47 +42,6 @@
 
 ## 🔌 External API Experience
 `카카오 지도 API`, `건강기능식품정보 API(공공데이터포털|식약처)`, `네이버 도서 검색 API(NAVER)`, `로또 당첨번호 크롤링 (Selenium 기반|동행복권)`
-
----
-
-## 🧭 About Me
-
-안녕하세요.  
-저는 **문학을 전공하며 사람의 내면의 가치와 이야기를 듣는 연습**을 했고,  
-이후 전산원과 실무 교육과정을 통해 **당면한 문제를 코드로 풀어내는 능력**을 쌓아왔습니다.  
-코드뿐만 아니라 **사람과의 협업, 기술 문서화, UI/UX에 대한 감각**까지 갖춘  
-균형 잡힌 개발자로 성장하고자 계속해서 노력하고 있습니다.
-
-> **문학적 사고와 실무 기술을 겸비한**  
-> **사용자 중심의 ‘고급 풀스택 개발자’를 목표로 성장 중입니다.**
-
-**나의 비전**
-- ✍ **글과 코드** 모두로 생각을 표현할 수 있는 개발자  
-- 🔍 **정확한 데이터 기반 분석과 설계**를 중시하는 백엔드 감각  
-- 🧠 **협업을 위한 커뮤니케이션과 피드백 루프**에 능숙  
-- 🔄 **기획 → 구현 → 리팩토링 → 배포**까지 경험한 프로젝트 기반 실무자
-
----
-
-## ⚙️ Tech Stack
-
-### 📌 Languages & Core
-`Java` `JavaScript` `Kotlin` `SQL` `HTML5` `CSS3`
-
-### ⚙ Backend
-`Spring Boot` `Spring Data JPA` `MyBatis` `JSP/Servlet` `RESTful API`
-
-### 🖥 Frontend
-`React` `React Router` `React Bootstrap` `EmailJS` `Chart.js` `CSS Modules`
-
-### ☁ Infrastructure & DevOps
-`AWS EC2/S3` `MySQL(MariaDB)` `Docker` `Github Actions` `Nginx`
-
-### 🛠️ Tools & Workflow
-`Swagger`, `Postman`, `Selenium`, `JavaDoc`
-
-## 🔌 External API Experience
-- `카카오 지도 API(KAKAO)`, `건강기능식품정보 API(공공데이터포털-식약처)`, `네이버 도서 검색 API(NAVER)`, `로또 당첨번호 크롤링(Selenium 기반, 동행복권)`
 
 ---
 
