@@ -41,7 +41,7 @@
 `Swagger`, `Postman`, `Selenium`, `JavaDoc`
 
 ## 🔌 External API Experience
-`카카오 지도 API`, `건강기능식품정보 API(공공데이터포털|식약처), `네이버 도서 검색 API(NAVER)`, `로또 당첨번호 크롤링 (Selenium 기반|동행복권)`
+`카카오 지도 API`, `건강기능식품정보 API(공공데이터포털|식약처)`, `네이버 도서 검색 API(NAVER)`, `로또 당첨번호 크롤링 (Selenium 기반|동행복권)`
 
 ---
 
