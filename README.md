@@ -121,7 +121,7 @@
 
 - 📝 [Devlog - 개발 및 학습 일지 기록](https://dahndellthedev.tistory.com)  
 - 📚 [문학 블로그 - 일기, 시 등 문학을 기록](https://blog.naver.com/khanman11)  
-💌 [Email](khanman1208@gmail.com)
+이메일 : khanman1208@gmail.com
 
 ---
 
