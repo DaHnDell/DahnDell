@@ -125,7 +125,6 @@
 
 > `Spring Boot` `REST API` `OpenAI GPT` `Notion API` `GitHub Webhook` `Docker` `Nginx` `EC2`
 
-```
 
 <h2 align="center">✍ Blog & SNS / 블로그 및 연락처 </h2>
 
