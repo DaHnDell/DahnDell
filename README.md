@@ -115,7 +115,17 @@
 
 ---
 
+### 🧠 [Nocean: GitHub → GPT → Notion 자동화 시스템](https://github.com/DaHnDell/Nocean)
+**커밋 메시지를 요약하고 Notion에 자동으로 기록하는 GPT 연동 자동화 백엔드 시스템**
 
+- GitHub Webhook: push 이벤트 발생 시 서버로 payload 전송
+- Spring Boot 서버: 커밋 메시지와 메타데이터를 파싱
+- OpenAI GPT API: 커밋 메시지를 요약
+- Notion API: 요약 결과 및 커밋 정보를 노션에 자동 기록
+
+> `Spring Boot` `REST API` `OpenAI GPT` `Notion API` `GitHub Webhook` `Docker` `Nginx` `EC2`
+
+```
 
 <h2 align="center">✍ Blog & SNS / 블로그 및 연락처 </h2>
 
