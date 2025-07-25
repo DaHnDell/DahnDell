@@ -57,7 +57,7 @@
 ---
 
 ## 🔌 External API Experience  
-`카카오 지도 API` `건강기능식품정보 API(e약은요)` `네이버 도서 검색 API` `로또 당첨번호 크롤링 (Selenium 기반 · 동행복권)`
+`카카오 지도 API` `건강기능식품정보 API(e약은요)` `네이버 도서 검색 API` `로또 당첨번호 크롤링 (Selenium 기반 · 동행복권)` `OpenAI GPT` `Notion API` `GitHub Webhook`
 
 ---
 
